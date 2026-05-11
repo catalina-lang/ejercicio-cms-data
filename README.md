@@ -14,7 +14,7 @@ Bienvenido/a al ejercicio técnico del proceso de selección del CMS. Este ejerc
 
 **Algunas aclaraciones:**
 - No hay respuestas únicas correctas — nos interesa tu razonamiento y cómo tomas decisiones
-- Si algo no está claro, puedes hacer supuestos razonables y documentarlos
+- No puedes hacernos preguntas para resolver este ejercicio. Si algo no está claro, puedes hacer supuestos razonables y documentarlos
 - Valoramos código limpio y bien documentado por sobre código extenso
 - El README de tu entrega debe explicar cómo correr tu solución
 
@@ -24,13 +24,13 @@ Bienvenido/a al ejercicio técnico del proceso de selección del CMS. Este ejerc
 
 Responde las preguntas conceptuales en el archivo `parte_1_gcp/respuestas.md`.
 
-No es necesario que tengas acceso a GCP para responder — buscamos entender tu razonamiento y conocimiento de los servicios.
+No es necesario que tengas acceso a GCP (Google Cloud Plataform) para responder — buscamos entender tu razonamiento y conocimiento de los servicios.
 
 ---
 
 ## Parte 2 — Python y procesamiento de datos
 
-En la carpeta `datos/` encontrarás una base de datos real anonimizada de vehículos livianos del sistema de certificación vehicular chileno. Contiene variables técnicas como tipo de combustible, emisiones, consumo energético e identificación del vehículo.
+En la carpeta `datos/` encontrarás un archivo de datos real de vehículos livianos del sistema de certificación vehicular chileno. Contiene variables técnicas como tipo de combustible, emisiones, consumo energético e identificación del vehículo.
 
 Debes completar las siguientes tareas y dejar tus scripts en la carpeta `parte_2_python/`:
 
@@ -38,7 +38,7 @@ Debes completar las siguientes tareas y dejar tus scripts en la carpeta `parte_2
 Genera un reporte de calidad de la base. El entregable lo defines tu. Ten en consideración quien será el cliente final del reporte.
 
 ### Tarea 2 — Limpieza y estandarización
-Escribe un script que limpie la base aplicando al menos 5 transformaciones justificadas. 
+Escribe un script que limpie la base aplicando al menos 5 mejoras justificadas. 
 Consideraciones: 
 - El script será evaluado
 - El output debe ser la base limpia lista para análisis
