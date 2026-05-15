@@ -5,7 +5,7 @@
 
 Bienvenido/a al ejercicio técnico del proceso de selección del CMS. Este ejercicio tiene dos partes y está diseñado para que puedas mostrar tu forma de trabajar con datos y tu criterio técnico.
 
-**Tiempo de entrega:** 1 semana desde que recibes este repositorio.
+**Tiempo de entrega:** 22 de abril a las 16:00 horas.
 
 **Cómo entregar:**
 1. Haz un fork de este repositorio a tu cuenta de GitHub
@@ -41,14 +41,14 @@ Genera un reporte de calidad de la base. El entregable lo defines tu. Ten en con
 Escribe un script que limpie la base aplicando al menos 5 mejoras justificadas. 
 Consideraciones: 
 - El script será evaluado
-- El output debe ser la base limpia lista para análisis
+- El output debe ser la base limpia lista para análisis. Importante: *No* debes adjuntar la base limpia, ya que esta se obtendrá una vez corramos tu código. 
 
 ### Tarea 3 — Orquestación
-Diseña un orquestador simple en Python que encadene al menos 3 scripts con manejo básico de errores. El objetivo es que utilice los scripts que creaste en las tareas anteriores.
+Diseña un orquestador simple en Python que encadene al menos 3 scripts. El objetivo es que utilice los scripts que creaste en las tareas anteriores.
 
-No necesita correr en producción, pero debe reflejar cómo estructurarías un pipeline real.
+El orquestador debe reflejar cómo estructurarías un pipeline real.
 
-Hint: Para esta tarea ten en consideración que los tres puntos están relacionados. 
+Hint tarea 3: Para esta tarea ten en consideración que los tres puntos están relacionados.
 
 ---
 
@@ -59,8 +59,10 @@ Hint: Para esta tarea ten en consideración que los tres puntos están relaciona
 | Calidad del código | ¿Es modular, legible y mantenible por otro? |
 | Criterio técnico | ¿Las decisiones de limpieza están justificadas? |
 | GCP | ¿Entiende los servicios y cuándo usar cada uno? |
-| Documentación | ¿El repo tiene README? ¿El código tiene comentarios útiles? |
+| Documentación | ¿El repositorio tiene README? ¿El código tiene comentarios útiles? |
 | Autonomía | ¿Resolvió ambigüedades sin preguntar todo? |
+| Funcionalidad | ¿El orquestador funciona? |
+| Facilidad | ¿Es fácil para alguien más ejecutar los scripts? |
 
 ---
 
