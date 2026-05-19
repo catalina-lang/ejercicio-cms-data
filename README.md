@@ -8,7 +8,7 @@ Bienvenido/a al ejercicio técnico del proceso de selección del CMS. Este ejerc
 **Plazo:** 22 de mayo a las 16:00 horas.
 
 **Cómo entregar:**
-Vía correo guiandote por los siguientes pasos: 
+Vía correo guiándote por los siguientes pasos: 
 1. Clonar el repositorio en su computador: git clone https://github.com/catalina-lang/ejercicio-cms-data
 2. El repositorio que clonan puede ser público o privado. Si es público, basta con que nos envíen el link para poder acceder a él (no será trivial que los otros postulantes lleguen a él, así que no hay mayor problema con eso). Si deciden hacerlo privado, para mayor seguridad, deben tener en cuenta el punto número 3. 
 3. Agregar al usuario "catalina-lang" como colaborador para que podamos revisar su trabajo: Settings → Collaborators → Add people → busca "catalina-lang"
